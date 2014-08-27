@@ -17,9 +17,17 @@ one small pageTurning plugins
 
 
 *   write the necessary code in your html
+   
+
     var currentPage = 1;
+    
+    
     var totalPage = 29;
+    
+    
     $.pageShow(currentPage,totalPage,"pager");
+    
+    
   
 *  notice:
   currentPage is variational,every page is different,you can transmit variate,and the hyperlink in page.js you must padding
