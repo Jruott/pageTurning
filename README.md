@@ -19,14 +19,14 @@ one small pageTurning plugins
 *   write the necessary code in your html
    
 
-    var currentPage = 1;
+    <pre><code>var currentPage = 1;
     
     
     var totalPage = 29;
     
     
     $.pageShow(currentPage,totalPage,"pager");
-    
+    </code></pre>
     
   
 *  notice:
