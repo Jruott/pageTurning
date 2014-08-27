@@ -5,10 +5,7 @@ one small pageTurning plugins
 
 ###use
 *  import the necessary css&&js:
-  
-
-    <pre><code>
-    <link type="text/css" rel="stylesheet" href="pageTuring.css">
+    <pre><code><link type="text/css" rel="stylesheet" href="pageTuring.css">
     <script type="text/javascript" src="jquery-1.9.1.min.js"></script> 
     <script type="text/javascript" src="page.js"></script>
     </code></pre>
