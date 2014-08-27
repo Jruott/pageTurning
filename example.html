@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<link type="text/css" rel="stylesheet" href="pageTuring.css">
+<script type="text/javascript" src="jquery-2.0.3.min.js"></script> 
+<title>翻书示例</title>
+</head>
+<body>
+    <div id="wrapper">
+
+                 <div class="pager-item-list">
+                    <ul id="pager"></ul>
+                 </div>
+                
+
+    </div>  
+<script type="text/javascript" src="page.js"></script> 
+<script type="text/javascript">
+//加载分页器
+    var currentPage = 1;
+    var totalPage = 29;
+    $.pageShow(currentPage,totalPage,"pager");
+</script> 
+</body>
+</html>
