@@ -14,8 +14,6 @@ one small pageTurning plugins
     
     
     <script type="text/javascript" src="page.js"></script>
-    
-    
     </code></pre>
 
 *   write the necessary code in your html:
