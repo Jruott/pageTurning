@@ -81,7 +81,6 @@ $.extend({
         pagerHtml +=  "<li class='pager-last'><a title='最后一页' href='#'>" + "»" + "</a></li>";
     }
     document.getElementById(pageUl).innerHTML = pagerHtml;
-   
     }
 });
 
